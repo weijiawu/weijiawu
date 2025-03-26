@@ -2,12 +2,10 @@
 
 Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
-+ [Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)  
-  [![Star](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Video-Diffusion)
++ [Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)[![Star](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Video-Diffusion)
 
 
-+ [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)  
-  [![Star](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
++ [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)[![Star](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
 
 + [[Arxiv 2025] MovieAgent: Automated Movie Generation via Multi-Agent CoT Planning](https://github.com/showlab/MovieAgent)  
   [![Star](https://img.shields.io/github/stars/showlab/MovieAgent.svg?style=social&label=Star)](https://github.com/showlab/MovieAgent)
@@ -48,6 +46,15 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
   [![Star](https://img.shields.io/github/stars/weijiawu/BOVText-Benchmark.svg?style=social&label=Star)](https://github.com/weijiawu/BOVText-Benchmark)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.04888)
 
+<table class="center">
+<tr>
+      <td style="text-align:center;">[Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)[![Star](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Video-Diffusion)</td>
+  <td style="text-align:center;">[Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)[![Star](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Video-Diffusion)</td>
+    <td style="text-align:center;">[Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)[![Star](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Video-Diffusion)</td>
+      <td style="text-align:center;">[Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)[![Star](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Video-Diffusion)</td>
+</tr>
+
+</table>
 <!--
 **weijiawu/weijiawu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
