@@ -7,13 +7,17 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
 
 
 + [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)  
-  [![Star](https://img.shields.io/github/stars/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
+  [![Star](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
 
 + [[Arxiv 2025] MovieAgent: Automated Movie Generation via Multi-Agent CoT Planning](https://github.com/showlab/MovieAgent)  
   [![Star](https://img.shields.io/github/stars/showlab/MovieAgent.svg?style=social&label=Star)](https://github.com/showlab/MovieAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07314)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieAgent/)
 
++ [[CVPR 2025] A Hierarchical Movie Level Dataset for Long Video Generation](https://github.com/showlab/MovieBench)  
+  [![Star](https://img.shields.io/github/stars/showlab/MovieBench.svg?style=social&label=Star)](https://github.com/showlab/MovieBench)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://weijiawu.github.io/MovieBench/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieBench/)
 
 + [[ECCV 2024] DragAnything: Motion Control for Anything using Entity Representation](https://github.com/showlab/DragAnything)  
   [![Star](https://img.shields.io/github/stars/showlab/DragAnything.svg?style=social&label=Star)](https://github.com/showlab/DragAnything)
