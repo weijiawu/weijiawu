@@ -4,7 +4,7 @@
 
 [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)   [![Star](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
 
-[Awesome-Unified-Multimodal-Models](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)   [![Star](https://img.shields.io/github/stars/weijiawu/Awesome-Visual-Reinforcement-Learning.svg?style=social&label=Star)](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)
+[Awesome-Visual-Reinforcement-Learning](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)   [![Star](https://img.shields.io/github/stars/weijiawu/Awesome-Visual-Reinforcement-Learning.svg?style=social&label=Star)](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)
 
 
 
