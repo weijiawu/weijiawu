@@ -4,6 +4,10 @@
 
 [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)   [![Star](https://img.shields.io/github/stars/showlab/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
 
+[Awesome-Unified-Multimodal-Models](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)   [![Star](https://img.shields.io/github/stars/weijiawu/Awesome-Visual-Reinforcement-Learning.svg?style=social&label=Star)](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)
+
+
+
 [[Arxiv 2025] MovieAgent: Automated Movie Generation via Multi-Agent CoT Planning](https://github.com/showlab/MovieAgent)  [![Star](https://img.shields.io/github/stars/showlab/MovieAgent.svg?style=social&label=Star)](https://github.com/showlab/MovieAgent) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07314) [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieAgent/)
 
 [[CVPR 2025] A Hierarchical Movie Level Dataset for Long Video Generation](https://github.com/showlab/MovieBench)  [![Star](https://img.shields.io/github/stars/showlab/MovieBench.svg?style=social&label=Star)](https://github.com/showlab/MovieBench) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://weijiawu.github.io/MovieBench/)  [![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/MovieBench/)
